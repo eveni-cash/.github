@@ -1,8 +1,8 @@
 # Eveni Cash — .github
 
 Organization-wide issue and pull request templates for `eveni-cash`. Public repo:
-never put business details, names of users, the company behind Eveni or anything
-confidential here.
+never put business details, names of users, any company other than Pomars (the
+company behind Eveni Cash) or anything confidential here.
 
 - **Talk to Pedro in Portuguese.** Everything in this repo is in **English**.
 - **Brand name: "Eveni Cash"**; "Eveni" only as the short form after the first mention.
